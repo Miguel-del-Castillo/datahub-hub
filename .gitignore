@@ -1,0 +1,5 @@
+# Nunca subir el archivo con las credenciales reales de Supabase
+src/config/supabase.php
+
+# Bases de datos SQLite locales (pueden contener datos reales)
+*.sqlite
